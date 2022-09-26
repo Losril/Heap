@@ -124,4 +124,4 @@ print("------------------------")
 extractNode(newHeap, "Max")
 levelOrder(newHeap)
 
-#Após os testes cloncui que meu método está sendo exceutado de forma correta
+#Após os testes conclui que meu método está sendo exceutado de forma correta
